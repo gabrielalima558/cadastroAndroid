@@ -18,6 +18,7 @@ import java.util.HashMap;
 public class LoginActivity extends AppCompatActivity {
 
 
+    /* esdhufsdgfiusgfusgdifsghfoihjfçh */
     EditText edit_login, edit_senha;
 
     SharedPreferences sharedPreferences;
